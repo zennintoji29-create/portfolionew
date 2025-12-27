@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
+import agrosense from "../../Assets/Projects/agrosense.png";
+import ish from "../../Assets/Projects/ish.png";
+import weather from "../../Assets/Projects/weather.png";
+import gitsearch from "../../Assets/Projects/gitsearch.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
@@ -69,9 +69,9 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={TOdolist}
+              imgPath={leaf}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
+              title="DAILY PLANNER LIST"
               description="TaskPlanner is a productivity-focused task management app that helps users organize daily schedules, manage tasks by date, and plan their day efficiently through an intuitive calendar-based interface."
               ghLink="https://github.com/zennintoji29-create/daily-planner-pro.git"
               demoLink="https://daily-planner-pro.vercel.app/"     
