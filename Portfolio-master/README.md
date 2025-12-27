@@ -1,6 +1,6 @@
 <h2 align="center">
   Subhansu | Portfolio Website 🚀<br/>
-  <a href="https://subh.m24-studios.in/" target="_blank">subh.m24-studios.in</a>
+  <a href="subhansu.vercel.app" target="_blank">subhansu.portfolio</a>
 </h2>
 
 <div align="center">
